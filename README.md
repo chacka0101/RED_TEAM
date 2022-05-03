@@ -15,3 +15,4 @@
 * https://github.com/tobor88/PowerShell-Red-Team
 * https://threatexpress.com/redteaming/resources/
 * https://github.com/FourCoreLabs/EDRHunt
+* https://reconshell.com/red-team-powershell-scripts/
