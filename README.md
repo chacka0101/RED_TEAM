@@ -16,3 +16,4 @@
 * https://threatexpress.com/redteaming/resources/
 * https://github.com/FourCoreLabs/EDRHunt
 * https://reconshell.com/red-team-powershell-scripts/
+* https://github.com/bigb0sss/RedTeam-OffensiveSecurity
