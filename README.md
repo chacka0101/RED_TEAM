@@ -17,3 +17,4 @@
 * https://github.com/FourCoreLabs/EDRHunt
 * https://reconshell.com/red-team-powershell-scripts/
 * https://github.com/bigb0sss/RedTeam-OffensiveSecurity
+* https://github.com/khast3x/Redcloud
