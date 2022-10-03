@@ -18,3 +18,9 @@
 * https://reconshell.com/red-team-powershell-scripts/
 * https://github.com/bigb0sss/RedTeam-OffensiveSecurity
 * https://github.com/khast3x/Redcloud
+
+---
+OSSINT
+
+* https://start.me/p/rxRbpo/ti
+* https://osintframework.com/
