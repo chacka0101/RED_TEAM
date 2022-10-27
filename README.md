@@ -24,3 +24,4 @@
 
 * https://start.me/p/rxRbpo/ti
 * https://osintframework.com/
+* https://github.com/micro-joan/D4TA-HUNTER
