@@ -19,6 +19,7 @@
 * https://github.com/bigb0sss/RedTeam-OffensiveSecurity
 * https://github.com/khast3x/Redcloud
 * https://bruteratel.com/
+* https://github.com/A-poc/RedTeam-Tools
 
 ---
 # OSINT
