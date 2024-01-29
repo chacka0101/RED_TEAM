@@ -20,6 +20,7 @@
 * https://github.com/khast3x/Redcloud
 * https://bruteratel.com/
 * https://github.com/A-poc/RedTeam-Tools
+* https://github.com/mkilijanek/Hacking-Tools-Repository
 
 ---
 # OSINT
